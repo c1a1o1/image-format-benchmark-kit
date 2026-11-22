@@ -1,3 +1,7 @@
+**Official website:** [https://www.fujindeai.com/](https://www.fujindeai.com/) (FujinAI)
+
+Collected and curated by the FujinAI team. **Submissions are welcome.** [Open an issue](https://github.com/c1a1o1/image-format-benchmark-kit/issues/new) to suggest a resource or correction, or [submit a pull request](https://github.com/c1a1o1/image-format-benchmark-kit/pulls) with a proposed edit. Include a source link, a short explanation, and any affiliation. We review submissions before adding them.
+
 # Image Format Benchmark Kit
 
 Compare file size and transparency only after keeping dimensions and source pixels constant. This workflow uses synthetic material, not customer assets.
